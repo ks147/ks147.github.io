@@ -514,7 +514,7 @@ footer {
     text-align: left;
 
     h3 {
-        font-size: 1.5em;
+        font-size: 1.2em;
         font-weight: 300;
         color: $heading;
         display: inline-block;
@@ -522,7 +522,7 @@ footer {
     }
 
     h4 {
-        font-size: 1.2em;
+        font-size: 1.0em;
         font-weight: 300;
         color: #7e8890;
         margin: 0 0 15px 0;
@@ -595,6 +595,7 @@ footer {
     text-align: left;
 
     h3 {
+    	font-size: 1.2em;
         font-weight: 500;
         float: left;
         margin: 0;
@@ -610,6 +611,7 @@ footer {
         color: $text;
         clear: both;
         font-weight: 500;
+        font-size: 1.0em;
         margin: 0 0 15px 0;
     }
 
@@ -660,6 +662,7 @@ footer {
     transform: translateY(-50%);
     margin-left: 300px;
     padding: 15px;
+    text-align: left;
 
     h3 {
         font-size: 1.5em;
